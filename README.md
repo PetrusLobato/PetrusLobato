@@ -2,7 +2,7 @@
 ### Bem-vindo ao meu Github.
 
 - 💻 Programador Web Full Stack e Administrador
-- 🌱 Toda semana um projeto novo
+
 
 <div>
   <a href="https://github.com/PetrusLobato">
