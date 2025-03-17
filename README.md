@@ -4,7 +4,6 @@
 
 
 <img align="center" style="margin-bottom:100px" width=100%; src="https://github.com/PetrusLobato/PetrusLobato/issues/1#issue-2925853160" align="center">
-https://github.com/PetrusLobato/PetrusLobato/issues/1#issue-2925853160
 
 
 
