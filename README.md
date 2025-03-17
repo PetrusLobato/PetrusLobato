@@ -3,7 +3,8 @@
 </p>
 
 
-<img align="center" style="margin-bottom:100px" width=100%; src="https://github.com/?raw=true" align="center">
+<img align="center" style="margin-bottom:100px" width=100%; src="https://github.com/PetrusLobato/PetrusLobato/issues/1#issue-2925853160" align="center">
+
 
 
 ##  👨‍💻 Linguagens, Tecnologias,  Bibliotecas e Frameworks
