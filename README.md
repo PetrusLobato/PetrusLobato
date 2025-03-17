@@ -3,7 +3,7 @@
 </p>
 
 
-- 💻 Programador Web Full Stack e Administrador
+<img align="center" style="margin-bottom:100px" width=100%; src="https://github.com/?raw=true" align="center">
 
 
 ##  👨‍💻 Linguagens, Tecnologias,  Bibliotecas e Frameworks
