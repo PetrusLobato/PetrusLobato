@@ -1,4 +1,7 @@
-## Olá Mundo!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+bem+vindo" />
+</p>
+
 ### Bem-vindo ao meu Github.
 
 - 💻 Programador Web Full Stack e Administrador
@@ -34,7 +37,20 @@
   <a href="https://www.linkedin.com/in/petruslobato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RecheEduardo/RecheEduardo/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RecheEduardo/RecheEduardo/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/RecheEduardo/RecheEduardo/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
   
 
