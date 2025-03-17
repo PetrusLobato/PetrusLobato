@@ -6,7 +6,7 @@
 - 💻 Programador Web Full Stack e Administrador
 
 
-#  👨‍💻 Linguagens e Tecnologias
+##  👨‍💻 Linguagens, Tecnologias,  Bibliotecas e Frameworks
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pp-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,14 +26,8 @@
            
 </div>
 
-##
 
-<div> 
-  <a href="https://instagram.com/petruslobato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/petruslobato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-  #  📲 Conecte-se comigo 
+  ##  📲 Conecte-se comigo 
 
   <a href="https://wa.me/5548996201725?text=Ol%C3%A1!"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  /></a>
   <a href="mailto:admpetrusmlb@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
